@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="242ORm9q0A4HvJRxUiTiq5wmrBy" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -19,7 +22,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/Setup/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
@@ -35,5 +38,11 @@
       <updated>1642825208210</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="215" key="#Project_Structure" timestamp="1642825255668">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="215" key="#Project_Structure/2560.208.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1642825255668" />
   </component>
 </project>
